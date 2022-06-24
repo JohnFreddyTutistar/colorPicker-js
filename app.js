@@ -28,6 +28,6 @@ modoOscuro.addEventListener("click", () => {
 
 botonLight.addEventListener("click", () => {
     fondoOscuro.style.backgroundColor = "#fff"
-    titulo.style.color = "#000"
+    titulo.style.color = "#255F85"
     parrafoHex.style.color = "#000"
 });
