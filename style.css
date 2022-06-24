@@ -8,3 +8,10 @@
 .bi{
     cursor: pointer;
 }
+body{
+    font-family: 'Luckiest Guy', cursive;
+}
+.color-hex{
+    font-family: 'Poiret One', cursive;
+}
+
