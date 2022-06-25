@@ -21,7 +21,7 @@ btnMostrar.addEventListener("click", () => {
 });
 
 modoOscuro.addEventListener("click", () => {
-    fondoOscuro.style.backgroundColor = "#000"
+    fondoOscuro.style.backgroundColor = "#222"
     titulo.style.color = "#fff"
     parrafoHex.style.color = "#fff"
 })
