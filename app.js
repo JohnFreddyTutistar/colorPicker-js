@@ -7,7 +7,7 @@ const fondoOscuro = document.querySelector("#fondoColor")
 const titulo = document.querySelector("#titulo")
 const botonLight = document.querySelector("#light")
 const parrafoHex = document.querySelector("#color")
-console.log(inputColor.value)
+console.log(inputColor.value)   
 
 btnMostrar.addEventListener("click", () => {
     // console.log("click"); probar el boton en la consola

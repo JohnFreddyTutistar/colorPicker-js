@@ -1,17 +1,19 @@
-.container{
-    
+.container {
     height: 100vh;
 }
-.card{
+
+.card {
     cursor: pointer;
-}
-.bi{
-    cursor: pointer;
-}
-body{
-    font-family: 'Luckiest Guy', cursive;
-}
-.color-hex{
-    font-family: 'Poiret One', cursive;
 }
 
+.bi {
+    cursor: pointer;
+}
+
+body {
+    font-family: 'Luckiest Guy', cursive;
+}
+
+.color-hex {
+    font-family: 'Poiret One', cursive;
+}
